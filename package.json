@@ -1,0 +1,23 @@
+{
+  "name": "react-api-rest",
+  "version": "1.0.0",
+  "description": "Login with react js  and node js fake api rest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartinMaresC/React-Api-Rest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MartinMaresC/React-Api-Rest/issues"
+  },
+  "homepage": "https://github.com/MartinMaresC/React-Api-Rest#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
